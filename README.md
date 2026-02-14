@@ -62,5 +62,28 @@
 ## 四、经验交流与使用文档
 
 如果你对招投标辅助管理系统或者招投标代理公司项目管理有研究或者感兴趣，欢迎加微信交流，微信号：common_program
+![微信](./images/media/wechat.jpg)
 
 [软件使用文档](文档.md)
+
+
+## 五、开发环境
+
+**硬件环境**：
+- 开发用计算机：Intel Core i5处理器/16GB内存/512GB SSD
+- 服务器：Intel Xeon E5系列/4核心/8GB内存/40GB SSD  网络环境： 带宽5M
+
+
+**软件环境**：
+- 操作系统：Windows 11 专业版 / CentOS 7.8
+- 开发工具：IntelliJ PhpStorm 2019.1、 VSCode
+- 编程语言：php 8、JavaScript ES6、HTML5、CSS3
+- 后端框架：webman
+- 前端框架：Vue.js 3.2 
+- 数据库：MySQL 5.8
+- 应用服务器：Nginx 1.24
+- 构建工具：vite
+- 版本控制：Git 2.39 
+- 其他组件：Redis 7.0
+
+**编程语言**：php、JavaScript、HTML、CSS
